@@ -1,35 +1,25 @@
 # Calculator Project in Python
 
-A beginner-friendly Python repository for practising arithmetic operations and object-oriented programming (OOP).
-
-## Projects and practice files
-
-- `calculater.py` — original calculator practice script.
-- `oops_class_object_practice.py` — demonstrates classes, objects, attributes, constructors, and methods with `Laptop` and `Calculator` classes.
+A beginner-friendly calculator project for practising Python basics and arithmetic operations.
 
 ## Requirements
-
 - Python 3
 
 ## Run locally
-
-Open a terminal in the project folder and run either file:
+1. Clone or download the repository.
+2. Open a terminal in the project folder.
+3. Check the Python file name in the repository, then run it:
 
 ```bash
-python calculater.py
-python oops_class_object_practice.py
+python <filename>.py
 ```
 
-On Windows, use `py` instead of `python` if needed.
+Replace `<filename>.py` with the actual script name. On Windows, `py <filename>.py` may also work.
 
-## OOP concepts practised
-
-- **Class:** a blueprint for creating objects.
-- **Object:** an instance created from a class.
-- **Constructor (`__init__`):** sets up object attributes.
-- **Attributes:** data stored on an object, such as brand and RAM.
-- **Methods:** functions defined inside a class, such as `display()`, `add()`, `subtract()`, and `multiply()`.
+## Learning goals
+- Practise input and output
+- Work with arithmetic operators and conditional logic
+- Handle invalid input and debug program flow
 
 ## Author
-
 [Sakshi Manapure](https://github.com/sakshimanapure148)
